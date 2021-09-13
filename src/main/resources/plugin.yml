@@ -1,0 +1,8 @@
+name: NoServer
+description: Solves every bug, ever, for any Paper server.
+authors: [ TehBrian ]
+website: https://github.com/TehBrian/NoServer
+
+version: ${version}
+main: xyz.tehbrian.noserver.NoServer
+api-version: 1.17
